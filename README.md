@@ -107,5 +107,13 @@ In this 12-week phase, students will dive deeper into:
 ---
 
 ## 📁 Folder Structure Suggestion for Repo
-devhack-web-phase2/ │ ├── js/ │ ├── classwork/ │ └── exercises/ │ ├── node/ │ ├── classwork/ │ └── exercises/ │ └── infra/ ├── classwork/ └── exercises/
-
+devhack-web/
+├── js/
+│   ├── classwork/
+│   └── exercises/
+├── node/
+│   ├── classwork/
+│   └── exercises/
+└── infra/
+    ├── classwork/
+    └── exercises/
